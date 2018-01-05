@@ -1,1 +1,3 @@
-# codic.se
+# README #
+
+Repository for codic.se
